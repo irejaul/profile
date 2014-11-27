@@ -1,0 +1,39 @@
+.. Corporate_Profile-Acuity_Group documentation master file, created by
+   sphinx-quickstart on Thu Nov 27 22:03:17 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Corporate Profile of Acuity Group
+==========================================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 4
+
+   part1
+   part2
+   part3
+   part4
+   part5
+   part6
+   part7
+   part8
+   part9
+   
+License
+=======
+
+.. figure::  images/by-nc-nd.eu.png
+   :align:   center
+          
+Creative common's Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  `license <http://creativecommons.org/licenses/by-nc-nd/4.0//>`_
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
